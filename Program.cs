@@ -4,7 +4,7 @@ namespace prjSecondApplication
 {
     class Something
     {
-        internal int v;
+        internal int v
         internal string name { get; set; }
         public string Word { get; private set; }
     }
