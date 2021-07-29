@@ -1,0 +1,16 @@
+C:\Users\mihir\Pictures\Screenshots\Training\C#\Day 2\prjSecondApplication\bin\Debug\net5.0\prjSecondApplication.exe
+C:\Users\mihir\Pictures\Screenshots\Training\C#\Day 2\prjSecondApplication\bin\Debug\net5.0\prjSecondApplication.deps.json
+C:\Users\mihir\Pictures\Screenshots\Training\C#\Day 2\prjSecondApplication\bin\Debug\net5.0\prjSecondApplication.runtimeconfig.json
+C:\Users\mihir\Pictures\Screenshots\Training\C#\Day 2\prjSecondApplication\bin\Debug\net5.0\prjSecondApplication.runtimeconfig.dev.json
+C:\Users\mihir\Pictures\Screenshots\Training\C#\Day 2\prjSecondApplication\bin\Debug\net5.0\prjSecondApplication.dll
+C:\Users\mihir\Pictures\Screenshots\Training\C#\Day 2\prjSecondApplication\bin\Debug\net5.0\ref\prjSecondApplication.dll
+C:\Users\mihir\Pictures\Screenshots\Training\C#\Day 2\prjSecondApplication\bin\Debug\net5.0\prjSecondApplication.pdb
+C:\Users\mihir\Pictures\Screenshots\Training\C#\Day 2\prjSecondApplication\obj\Debug\net5.0\prjSecondApplication.csproj.AssemblyReference.cache
+C:\Users\mihir\Pictures\Screenshots\Training\C#\Day 2\prjSecondApplication\obj\Debug\net5.0\prjSecondApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihir\Pictures\Screenshots\Training\C#\Day 2\prjSecondApplication\obj\Debug\net5.0\prjSecondApplication.AssemblyInfoInputs.cache
+C:\Users\mihir\Pictures\Screenshots\Training\C#\Day 2\prjSecondApplication\obj\Debug\net5.0\prjSecondApplication.AssemblyInfo.cs
+C:\Users\mihir\Pictures\Screenshots\Training\C#\Day 2\prjSecondApplication\obj\Debug\net5.0\prjSecondApplication.csproj.CoreCompileInputs.cache
+C:\Users\mihir\Pictures\Screenshots\Training\C#\Day 2\prjSecondApplication\obj\Debug\net5.0\prjSecondApplication.dll
+C:\Users\mihir\Pictures\Screenshots\Training\C#\Day 2\prjSecondApplication\obj\Debug\net5.0\ref\prjSecondApplication.dll
+C:\Users\mihir\Pictures\Screenshots\Training\C#\Day 2\prjSecondApplication\obj\Debug\net5.0\prjSecondApplication.pdb
+C:\Users\mihir\Pictures\Screenshots\Training\C#\Day 2\prjSecondApplication\obj\Debug\net5.0\prjSecondApplication.genruntimeconfig.cache
