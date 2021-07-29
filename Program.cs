@@ -6,7 +6,7 @@ namespace prjSecondApplication
     {
         internal int v;
         internal string name { get; set; }
-        public string Word { get; set; }
+        public string Word { get; private set; }
     }
     class Program
     {
